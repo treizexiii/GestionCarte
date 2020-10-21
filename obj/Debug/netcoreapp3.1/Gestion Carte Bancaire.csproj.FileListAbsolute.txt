@@ -1,0 +1,19 @@
+C:\Users\darkt\source\repos\Gestion Carte Bancaire\Gestion Carte Bancaire\bin\Debug\netcoreapp3.1\Gestion Carte Bancaire.exe
+C:\Users\darkt\source\repos\Gestion Carte Bancaire\Gestion Carte Bancaire\bin\Debug\netcoreapp3.1\Gestion Carte Bancaire.deps.json
+C:\Users\darkt\source\repos\Gestion Carte Bancaire\Gestion Carte Bancaire\bin\Debug\netcoreapp3.1\Gestion Carte Bancaire.runtimeconfig.json
+C:\Users\darkt\source\repos\Gestion Carte Bancaire\Gestion Carte Bancaire\bin\Debug\netcoreapp3.1\Gestion Carte Bancaire.runtimeconfig.dev.json
+C:\Users\darkt\source\repos\Gestion Carte Bancaire\Gestion Carte Bancaire\bin\Debug\netcoreapp3.1\Gestion Carte Bancaire.dll
+C:\Users\darkt\source\repos\Gestion Carte Bancaire\Gestion Carte Bancaire\bin\Debug\netcoreapp3.1\Gestion Carte Bancaire.pdb
+C:\Users\darkt\source\repos\Gestion Carte Bancaire\Gestion Carte Bancaire\obj\Debug\netcoreapp3.1\Gestion Carte Bancaire.csprojAssemblyReference.cache
+C:\Users\darkt\source\repos\Gestion Carte Bancaire\Gestion Carte Bancaire\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\darkt\source\repos\Gestion Carte Bancaire\Gestion Carte Bancaire\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\darkt\source\repos\Gestion Carte Bancaire\Gestion Carte Bancaire\obj\Debug\netcoreapp3.1\Gestion Carte Bancaire_MarkupCompile.cache
+C:\Users\darkt\source\repos\Gestion Carte Bancaire\Gestion Carte Bancaire\obj\Debug\netcoreapp3.1\Gestion Carte Bancaire_MarkupCompile.lref
+C:\Users\darkt\source\repos\Gestion Carte Bancaire\Gestion Carte Bancaire\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\darkt\source\repos\Gestion Carte Bancaire\Gestion Carte Bancaire\obj\Debug\netcoreapp3.1\Gestion Carte Bancaire.g.resources
+C:\Users\darkt\source\repos\Gestion Carte Bancaire\Gestion Carte Bancaire\obj\Debug\netcoreapp3.1\Gestion Carte Bancaire.AssemblyInfoInputs.cache
+C:\Users\darkt\source\repos\Gestion Carte Bancaire\Gestion Carte Bancaire\obj\Debug\netcoreapp3.1\Gestion Carte Bancaire.AssemblyInfo.cs
+C:\Users\darkt\source\repos\Gestion Carte Bancaire\Gestion Carte Bancaire\obj\Debug\netcoreapp3.1\Gestion Carte Bancaire.csproj.CoreCompileInputs.cache
+C:\Users\darkt\source\repos\Gestion Carte Bancaire\Gestion Carte Bancaire\obj\Debug\netcoreapp3.1\Gestion Carte Bancaire.dll
+C:\Users\darkt\source\repos\Gestion Carte Bancaire\Gestion Carte Bancaire\obj\Debug\netcoreapp3.1\Gestion Carte Bancaire.pdb
+C:\Users\darkt\source\repos\Gestion Carte Bancaire\Gestion Carte Bancaire\obj\Debug\netcoreapp3.1\Gestion Carte Bancaire.genruntimeconfig.cache
